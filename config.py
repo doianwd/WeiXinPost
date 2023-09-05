@@ -1,30 +1,27 @@
 # 公众号配置
 # 公众号appId
-app_id = "wx******************"
+app_id = "wx68975ab770c2ae79"
 # 公众号appSecret
-app_secret = "f9a80260d33******************"
+app_secret = "ba182c4ab45239be3f2458b46973fa64"
 # 模板消息id
 # 每日消息
-template_id1 = "wX-************************************"
-# 课程消息,上课提醒
-template_id2 = "loe1yHWr************************************"
 # 晚安心语
-template_id3 = "-fun9-2************************************"
+template_id3 = "gv6tspiKGsiTlvkCW798jB2qCGY35TZnFZfylE1zYXs"
 # 接收公众号消息的微信号
 # 这是openid
-user = ["ojhdR50T******************"]
+user = ["oFGy-6Wc-IoNdYR3-NrSlKsC8yH8"]
 
 # 信息配置
 # 所在省份
-province = "四川"
+province = "河北"
 # 所在城市
-city = "绵阳"
+city = "高阳"
 # 生日，如果月份或者日期小于10，直接用对应的数字即可，例如1997-1-1，---------倒计时
 birthday = "2022-9-9"
 # 在一起的日子，格式同上------------计时器
 love_date = "2001-12-1"
 # 天行数据晚安心语 key
-good_Night_Key = "4082bfd944c******************"
+good_Night_Key = "9ff142b32c638a83a0241ac25b366be1"
 # -------------------------------------------------------------------------
 # 设置学期第一周开始日期
 year = 2022
